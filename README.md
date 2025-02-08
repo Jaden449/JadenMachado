@@ -43,6 +43,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jaden449&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jaden449&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaden449&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Jaden449&color=blue)
 ###
 ---
